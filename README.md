@@ -1,6 +1,6 @@
 # Ansible-Pipeline
-# Commands to install ansible
-Update Repository
+## Commands to install ansible
+Update Repositoryhttps://github.com/chintan2812/Ansible/settings
 steps:1 - 5
 sudo apt-get update
 
